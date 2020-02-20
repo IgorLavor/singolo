@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+     *{
+    margin: 0;
+} 
+.header{
+width: 1020px;
+height: 90px;
+background-color: #2d303a;
+margin: 0 auto;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+h1{
+font-size: 25px;
+line-height: 6px;
+color: #ffffff;
+font-family: "Lato";
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+padding-left: 38px;
+padding-bottom: 3px;
+}
+h1 .star{
+color: #f06c64;
+}
+
+.navbar ul{
+list-style: none;
+display: flex;
+padding: 40px;
+width: 370px;
+justify-content: space-between;
+padding-top: 48px;
+}
+
+.navbar ul li{
+font-size: 12px;
+line-height: 6px;
+color: white;
+font-family: "Lato";
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+}
+.header_bottom{
+    width: 1020px;
+    height: 6px;
+    background-color: #323746;
+    margin: 0 auto;   
+}
+.slider{
+width: 1020px;
+height: 600px;
+background-color: #f06c64;
+margin: 0 auto;
+}
+.slider_bottom{
+    width: 1020px;
+height: 15px;
+background-color: #ea676b;
+margin: 0 auto;
+}
+.services{
+    width: 1020px;
+    height: 500px;
+    background-color: #f2f2f2;
+    margin: 0 auto; 
+}
+.our_services{
+    height: 100px;
+    
+}
+.our_services h2{
+font-size: 30px;
+line-height: 18px;
+color: #666d89;
+font-family: "Lato";
+font-weight: 900;
+
+}
+.our_services p{
+
+font-size: 18px;
+line-height: 30px;
+color: #767e9e;
+font-family: "Lato";
+font-weight: 300;
+
+}
+.srvices_list{
+height: 208px;
+}
